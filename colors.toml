@@ -1,0 +1,37 @@
+# Orbit Orange — 1970 Pontiac GTO
+# Orbit Orange
+#
+# accent #f5901f is the paint colour; the surfaces around it are the
+# same hue taken down to near-black.
+
+mode = "dark"
+accent = "#f5901f"
+
+selection = "#33220f"
+muted = "#7d6650"
+background = "#21150b"
+
+dark_background = "#180f08"
+darker_background = "#100905"
+lighter_background = "#32200f"
+foreground = "#ecd7c3"
+
+dark_foreground = "#9c8471"
+light_foreground = "#f5e6d8"
+bright_foreground = "#fdf4ea"
+red = "#ff6a4d"
+
+yellow = "#f2c14e"
+orange = "#ff9b3d"
+green = "#86cf5c"
+cyan = "#46c6b8"
+blue = "#6f9fe8"
+magenta = "#cf7fc9"
+brown = "#85592f"
+bright_red = "#ff8f75"
+bright_yellow = "#ffd46f"
+bright_orange = "#ffb96a"
+bright_green = "#a8e07f"
+bright_cyan = "#78dcd0"
+bright_blue = "#9cbcff"
+bright_magenta = "#e0a4dc"
